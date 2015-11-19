@@ -1,2 +1,2 @@
-# MovieApplication
-A rails movie app
+# MovieApplication-
+Rails movie app
